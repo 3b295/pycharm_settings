@@ -1,0 +1,193 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 (C:\Users\xwyst\Envs\jd\Scripts\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\xwyst\Envs\jd\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/jd/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Envs/jd/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Envs/jd" />
+            <root type="simple" url="file://$USER_HOME$/Envs/jd/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Envs/jd/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/Envs/jd/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/Envs/jd/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/107553222" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (C:\Users\xwyst\AppData\Local\Programs\Python\Python35\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\xwyst\AppData\Local\Programs\Python\Python35\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1884568323" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\xwyst\Envs\flask" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\xwyst\Envs\flask\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Envs/flask/Lib" />
+            <root type="simple" url="file://$USER_HOME$/Envs/flask/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/Envs/flask" />
+            <root type="simple" url="file://$USER_HOME$/Envs/flask/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/302982041" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.13 (C:\Python27\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Python27/DLLs" />
+            <root type="simple" url="file://C:/Python27/Lib" />
+            <root type="simple" url="file://C:/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Python27/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-762174762" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\xwyst\my_blog_2" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\xwyst\my_blog_2\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" />
+            <root type="simple" url="file://$USER_HOME$/my_blog_2" />
+            <root type="simple" url="file://$USER_HOME$/my_blog_2/Lib/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/my_blog_2/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/my_blog_2/Lib/site-packages/pip-9.0.1-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/698247873" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/my_blog_2" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at C:\Users\xwyst\Envs\excel" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="C:\Users\xwyst\Envs\excel\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Local/Programs/Python/Python35" />
+            <root type="simple" url="file://$USER_HOME$/Envs/excel" />
+            <root type="simple" url="file://$USER_HOME$/Envs/excel/Lib/site-packages" />
+            <root type="simple" url="jar://$USER_HOME$/Envs/excel/Lib/site-packages/setuptools-28.8.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Envs/excel/Lib/site-packages/pip-9.0.1-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-726621611" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
