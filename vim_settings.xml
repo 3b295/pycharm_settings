@@ -9,25 +9,97 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503387442195">
+      <file name="/Dummy.txt" timestamp="1503410054999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1503383516310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503477840561">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/excel_transformation/main" timestamp="1503412703469">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="75" column="47" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="63" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/excel_transformation/main2.py" timestamp="1503412690307">
+        <mark key="[" line="85" column="47" />
+        <mark key="]" line="85" column="48" />
+        <mark key="." line="85" column="48" />
+        <mark key="^" line="76" column="47" />
+      </file>
       <file name="/dummy.sql" timestamp="1503387455081">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
-    <registers />
+    <jumps>
+      <jump line="53" column="0" filename="$USER_HOME$/Desktop/excel_transformation/main" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>next_row, 0</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">cmVkaXMubG9nKHJlZGlzLkxPR19OT1RJQ0UsICIoPi48KSBmbHVzaCBkYXRhIikK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQoJ0tFWVMgdHlwZSBpcyAnLi50eXBlKEtFWVMpKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoJ0FSR1YgdHlwZSBpcyAnLi50eXBlKEFSR1YpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoQVJHVlsxXSArIDIpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoYS4uImlzIGEgIi4udHlwZShhKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">bG9jYWwgYSA9IHRvbnVtYmVyKEFSR1ZbMV0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LS1bWyAgXV0tLQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQoYSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YSA9IDEK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bG9jYWwgYQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL25leHRfcm93LCAwL25leHRfcm93LCBuZXh0X3Jvdy9n</text>
+      </register>
+    </registers>
     <search>
+      <last-search>next_row, 0</last-search>
+      <last-pattern>next_row, 0</last-pattern>
+      <last-replace>next_row, next_row</last-replace>
+      <last-substitute>next_row, 0</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>next_row, 0</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL25leHRfcm93LCAwL25leHRfcm93LCBuZXh0X3Jvdy9n</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -37,6 +109,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
