@@ -15,11 +15,11 @@
       <file name="/fragment.py" timestamp="1503383516310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503480256599">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503481756760">
+        <mark key="[" line="15" column="59" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+        <mark key="^" line="15" column="62" />
       </file>
       <file name="$USER_HOME$/Desktop/excel_transformation/main" timestamp="1503412703469">
         <mark key="'" line="53" column="0" />
@@ -48,10 +48,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>next_row, 0</text>
@@ -60,31 +60,31 @@
         <text encoding="base64">cmVkaXMubG9nKHJlZGlzLkxPR19OT1RJQ0UsICIoPi48KSBmbHVzaCBkYXRhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkYXRhc3RvcmUuZXZhbCgicmVkaXMubG9nKHJlZGlzLkxPR19OT1RJQ0UsICcoPi48KSBmbHVzaCBkYXRhJykiLCAwKQo=</text>
+        <text encoding="base64">YidzdGF0aW9uZXJ5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGF0YXN0b3JlLmV2YWwoInJlZGlzLmxvZyhyZWRpcy5MT0dfTk9USUNFLCAnKD4uPCkgZmx1c2ggZGF0YScpIiwgMCkK</text>
+        <text encoding="base64">ZmllbGQgPSBbTm9uZSwgMTAwLCAnYScsICdXYWxsYWNlLCBEYXZpZCBGb3N0ZXInXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YXN0b3JlLmV2YWwoY21kLCAwLCAnbW9ieSBkaWNrJywgJ2hlcm1hbiBtZXZpbGxlJykpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">bG9jYWwgbWFyY19rZXkgPSBLRVlTWzFdCmlmIHJlZGlzLmNhbGwoJ2V4aXN0cycsIG1hcmNfa2V5KSA8IDEgdGhlbgogICAgbWFyY19rZXkgPSAibWFyYzoiLi5yZWRpcy5jYWxsKCdpbmNyJywgJ21hcmMnKQplbmQKbG9jYWwgbWFyY19mbGRfaWQgPSByZWRpcy5jYWxsKCdpbmNyJywgbWFyY19rZXkuLic6Jy4uS0VZU1syXSkKbG9jYWwgbWFyY19mbGRfa2V5ID0gbWFyY19rZXkuLiI6Ii4ubWFyY19mbGRfaWQKCmZvciBpLGsgaW4gaXBhaXJzKEtFWVMpIGRvCiAgICBpZiBpID4gMiB0aGVuCiAgICAgICAgcmVkaXMuY2FsbCgiSFNFVCIsIG1hcmNfZmxkX2tleSwgaywgQVJHVltpLTJdKQogICAgZW5kCmVuZApyZXR1cm4gbWFyY19mbGRfa2V5</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YXN0b3JlLmV2YWwoY21kLCAwLCAnbW9ieSBkaWNrJywgJ2hlcm1hbiBtZXZpbGxlJykpCg==</text>
+        <text encoding="base64">cmVkaXMuY2FsbChlbHB1c2hoYWxsKGVscHVzaCwgbWFyY19mbGRfa2V5KSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmZvciBmaWVsZCwgdmFsdWUgaW4gZGF0YXN0b3JlLmhnZXRhbGwoJ2Jvb2sxJykuaXRlbXMoKToKICAgIHByaW50KGZpZWxkLCB2YWx1ZSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Zgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0dXJuIGFpcmxpbmVzCg==</text>
+        <text encoding="base64">bWFyY19pbmdlc3Rpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kCg==</text>
+        <text encoding="base64">cHJpbnQoYWRkX3NoYTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhYmxlLmluc2VydChhaXJsaW5lcywgaykK</text>
+        <text encoding="base64">YWRkX3NoYTEgPSBkYXRhc3RvcmUuc2NyaXB0X2xvYWQoYWRkX2Jvb2tfbHVhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIGksayBpbiBpcGFpcnMoQVJHVikgZG8K</text>
+        <text encoding="base64">cmV0dXJuIGJvb2tfa2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25leHRfcm93LCAwL25leHRfcm93LCBuZXh0X3Jvdy9n</text>
