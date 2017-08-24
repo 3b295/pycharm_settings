@@ -15,17 +15,10 @@
       <file name="/fragment.py" timestamp="1503383516310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503568748770">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/contect_redis/main2.py" timestamp="1503564618691">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="42" />
-        <mark key="^" line="6" column="42" />
-        <mark key="." line="6" column="42" />
+      <file name="$USER_HOME$/Desktop/contect_redis/main2.py" timestamp="1503570083162">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/excel_transformation/main" timestamp="1503543845341">
         <mark key="'" line="53" column="0" />
@@ -49,8 +42,12 @@
       <file name="/dummy.sql" timestamp="1503387455081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1503563991263">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1503571337488">
+        <mark key="'" line="8" column="30" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -61,10 +58,11 @@
       <jump line="5" column="7" filename="$USER_HOME$/Desktop/contect_redis/chatroom.lua" />
       <jump line="3" column="4" filename="$USER_HOME$/Desktop/contect_redis/chatroom.lua" />
       <jump line="7" column="0" filename="$USER_HOME$/Desktop/contect_redis/main.py" />
+      <jump line="8" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZFJkRAphaW4ucHk6NQoKYWluLnB5OjUKZmtkZmpzbGsKc2pma2psa2phc2YKa2xqZGZhCmpma3NkZnEKCgpka2Zqa3NkbGpma2xzZGZqa3NkZmpsc2Rma3NkbGZqCmRrZmpsZHNmCmprc2RmamRzZgpqa2xkc2YK</text>
+        <text encoding="base64">Zmlyc3RfbWFzdGVyLmV2YWwoaW5jcmVtZW50X2x1YSwgMCwgMTAwMDAwKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -101,55 +99,89 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Cm1vdmllX2F0dGVuZF90cmFuc2FjdGlvbiA9IGZpcnN0X21hc3Rlci5waXBlbGluZSh0cmFuc2FjdGlvbj1UcnVlKQpwcmludChtb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24uaW5jcigibW92aWUtYXR0ZW5kYW5jZSIpKQptb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24uZXhlY3V0ZSgpCgoKbWFpbi5weTo1</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoZmlyc3RfbWFzdGVyLmdldCgibW92aWUtYXR0ZW5kYW5jZSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZFJkRAphaW4ucHk6NQoKYWluLnB5OjUKZmtkZmpzbGsKc2pma2psa2phc2YKa2xqZGZhCmpma3NkZnEKCgpka2Zqa3NkbGpma2xzZGZqa3NkZmpsc2Rma3NkbGZqCmRrZmpsZHNmCmprc2RmamRzZgpqa2xkc2YK</text>
+        <text encoding="base64">Zmlyc3RfbWFzdGVyLmV2YWwoaW5jcmVtZW50X2x1YSwgMCwgMTAwMDAwKQo=</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
-      <register name="2" type="8">
-        <text>#
-i
-i
-f
-m
-p
-m
-m
-m
-d
-d
-i
-k</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQobW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmluY3IoIm1vdmllLWF0dGVuZGFuY2UiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZHNqZmtqbGtqYXNmaWtsbGpkZmEK</text>
+        <text encoding="base64">bW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uID0gZmlyc3RfbWFzdGVyLnBpcGVsaW5lKHRyYW5zYWN0aW9uPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWFpbi5weTo1Cg==</text>
+        <text encoding="base64">bW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmV4ZWN1dGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnJlZGlzLmNsaWVudC5TdHJpY3RSZWRpcyNwaXBlbGluZQptYWluLnB5OjkKbWFpbi5weTo5bWFpbi5weTo5bWFpbi5weTo5bWFpbi5weTo5bWFpbi5weTo5Cm1haW4ucHk6NwpDOlxVc2Vyc1x4d3lzdFxEZXNrdG9wXGNvbnRlY3RfcmVkaXNcbWFpbi5weQptYWluLnB5OjkK</text>
+        <text encoding="base64">c2tkZmpsc2QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWFpbi5weTo5Cg==</text>
+        <text encoding="base64">c2tkZmpsc2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QzpcVXNlcnNceHd5c3RcRGVza3RvcFxjb250ZWN0X3JlZGlzXG1haW4ucHkK</text>
+        <text encoding="base64">c2RrZmpsa3NkZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">ZGVmIGxvZygpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -205,6 +237,12 @@ k</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
