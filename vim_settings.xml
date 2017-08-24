@@ -15,11 +15,11 @@
       <file name="/fragment.py" timestamp="1503383516310">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503564650650">
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503568748770">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/contect_redis/main2.py" timestamp="1503564618691">
         <mark key="[" line="6" column="42" />
@@ -64,43 +64,92 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZFJkRAphaW4ucHk6NQoKYWluLnB5OjUKZmtkZmpzbGsKc2pma2psa2phc2YKa2xqZGZhCmpma3NkZnEKCgpka2Zqa3NkbGpma2xzZGZqa3NkZmpsc2Rma3NkbGZqCmRrZmpsZHNmCmprc2RmamRzZgpqa2xkc2YK</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="k" type="4">
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>host='192'</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpc1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IHJlZGlzCmltcG9ydCB0aW1lCgpmaXJzdF9tYXN0ZXIgPSByZWRpcy5TdHJpY3RSZWRpcyhob3N0PSIxOTIuMTY4LjEuMTciLCBwb3J0PSI2Mzc5IikK</text>
+        <text encoding="base64">Cm1vdmllX2F0dGVuZF90cmFuc2FjdGlvbiA9IGZpcnN0X21hc3Rlci5waXBlbGluZSh0cmFuc2FjdGlvbj1UcnVlKQpwcmludChtb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24uaW5jcigibW92aWUtYXR0ZW5kYW5jZSIpKQptb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24uZXhlY3V0ZSgpCgoKbWFpbi5weTo1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZFJkRAphaW4ucHk6NQoKYWluLnB5OjUKZmtkZmpzbGsKc2pma2psa2phc2YKa2xqZGZhCmpma3NkZnEKCgpka2Zqa3NkbGpma2xzZGZqa3NkZmpsc2Rma3NkbGZqCmRrZmpsZHNmCmprc2RmamRzZgpqa2xkc2YK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
+        <text>#
+i
+i
+f
+m
+p
+m
+m
+m
+d
+d
+i
+k</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmluY3IoIm1vdmllLWF0dGVuZGFuY2UiKSkK</text>
+        <text encoding="base64">ZHNqZmtqbGtqYXNmaWtsbGpkZmEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uID0gZmlyc3RfbWFzdGVyLnBpcGVsaW5lKHRyYW5zYWN0aW9uPVRydWUpCg==</text>
+        <text encoding="base64">bWFpbi5weTo1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnByaW50KGZpcnN0X3NsYXZlLmRic2l6ZSgpKQpmb3Iga2V5IGluIFsidGVzdDozNDUiLCAidGVzdDo2NzQzNSJdOgogICAgcHJpbnQoZmlyc3RfbWFzdGVyLmdldChrZXkpLCBmaXJzdF9zbGF2ZS5nZXQoa2V5KSkK</text>
+        <text encoding="base64">CnJlZGlzLmNsaWVudC5TdHJpY3RSZWRpcyNwaXBlbGluZQptYWluLnB5OjkKbWFpbi5weTo5bWFpbi5weTo5bWFpbi5weTo5bWFpbi5weTo5bWFpbi5weTo5Cm1haW4ucHk6NwpDOlxVc2Vyc1x4d3lzdFxEZXNrdG9wXGNvbnRlY3RfcmVkaXNcbWFpbi5weQptYWluLnB5OjkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zmlyc3Rfc2xhdmUgPSByZWRpcy5TdHJpY3RSZWRpcyhob3N0PSIxOTIuMTY4LjEuMTciLCBwb3J0PSIzMjc2OSIpCg==</text>
+        <text encoding="base64">bWFpbi5weTo5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dGltZS5zbGVlcCgxKQo=</text>
+        <text encoding="base64">QzpcVXNlcnNceHd5c3RcRGVza3RvcFxjb250ZWN0X3JlZGlzXG1haW4ucHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zmlyc3Rfc2xhdmUuc2xhdmVvZihob3N0PSIxOTIuMTY4LjEuMTciLCBwb3J0PSI2Mzc5IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoZmlyc3Rfc2xhdmUuZGJzaXplKCkpCg==</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -153,6 +202,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
