@@ -22,12 +22,11 @@
         <mark key="." line="25" column="59" />
         <mark key="^" line="29" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/excel_transformation/main" timestamp="1503412703469">
+      <file name="$USER_HOME$/Desktop/excel_transformation/main" timestamp="1503543845341">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="75" column="47" />
-        <mark key="]" line="75" column="48" />
-        <mark key="." line="75" column="48" />
-        <mark key="^" line="63" column="47" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/excel_transformation/main2.py" timestamp="1503412690307">
         <mark key="[" line="85" column="47" />
@@ -49,11 +48,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/contect_redis/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>修改</text>
       </register>
       <register name="/" type="4">
         <text>next_row, 0</text>
@@ -62,31 +61,31 @@
         <text encoding="base64">cmVkaXMubG9nKHJlZGlzLkxPR19OT1RJQ0UsICIoPi48KSBmbHVzaCBkYXRhIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YXN0b3JlLmhnZXRhbGwoJ3N0YXRpb25lcnk6NCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bG9jYWwK</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVkaXMuY2FsbCgnaW5jcmJ5JyBzdGF0aW9uZXJ5X2tleS4uIjpzaGVldHMiLCBBUkdWWzRdKQo=</text>
+        <text encoding="base64">ICAgIGNvcHlfY2xhc3NfdGFibGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVkaXMuY2FsbCgnc2V0Jywgc3RhdGlvbmVyeV9rZXkuLiI6aW52ZW50b3J5IiwgQVJHVls1XSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YidzdGF0aW9uZXJ5Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmllbGQgPSBbTm9uZSwgMTAwLCAnYScsICdXYWxsYWNlLCBEYXZpZCBGb3N0ZXInXQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bG9jYWwgbWFyY19rZXkgPSBLRVlTWzFdCmlmIHJlZGlzLmNhbGwoJ2V4aXN0cycsIG1hcmNfa2V5KSA8IDEgdGhlbgogICAgbWFyY19rZXkgPSAibWFyYzoiLi5yZWRpcy5jYWxsKCdpbmNyJywgJ21hcmMnKQplbmQKbG9jYWwgbWFyY19mbGRfaWQgPSByZWRpcy5jYWxsKCdpbmNyJywgbWFyY19rZXkuLic6Jy4uS0VZU1syXSkKbG9jYWwgbWFyY19mbGRfa2V5ID0gbWFyY19rZXkuLiI6Ii4ubWFyY19mbGRfaWQKCmZvciBpLGsgaW4gaXBhaXJzKEtFWVMpIGRvCiAgICBpZiBpID4gMiB0aGVuCiAgICAgICAgcmVkaXMuY2FsbCgiSFNFVCIsIG1hcmNfZmxkX2tleSwgaywgQVJHVltpLTJdKQogICAgZW5kCmVuZApyZXR1cm4gbWFyY19mbGRfa2V5</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVfcm93ICUgMTQgPT0gMAogICAgICAgIGFzc2VydCByZWFkX3JvdyAlIDEzID09IDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVkaXMuY2FsbChlbHB1c2hoYWxsKGVscHVzaCwgbWFyY19mbGRfa2V5KSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydCB3cml0ZV9yb3cgJSAxNCA9PSAwCiAgICBhc3NlcnQgcmVhZF9yb3cgJSAxMyA9PSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zgo=</text>
+        <text encoding="base64">ICAgIHByaW50KGkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL25leHRfcm93LCAwL25leHRfcm93LCBuZXh0X3Jvdy9n</text>
