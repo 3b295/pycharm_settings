@@ -15,6 +15,11 @@
       <file name="/fragment.py" timestamp="1503383516310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503572431453">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/contect_redis/main2.py" timestamp="1503570083162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -42,12 +47,11 @@
       <file name="/dummy.sql" timestamp="1503387455081">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1503571337488">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1503572616724">
         <mark key="'" line="8" column="30" />
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="18" column="29" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -62,7 +66,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zmlyc3RfbWFzdGVyLmV2YWwoaW5jcmVtZW50X2x1YSwgMCwgMTAwMDAwKQo=</text>
+        <text encoding="base64">bHQ7cCZndDvI57n7xPq+9bXDusPTw6OssfDN/MHLzca89rj4xfPT0aOhJmx0Oy9wJmd0Owo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -99,7 +103,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpc1w+</text>
@@ -108,7 +112,7 @@
         <text encoding="base64">cHJpbnQoZmlyc3RfbWFzdGVyLmdldCgibW92aWUtYXR0ZW5kYW5jZSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zmlyc3RfbWFzdGVyLmV2YWwoaW5jcmVtZW50X2x1YSwgMCwgMTAwMDAwKQo=</text>
+        <text encoding="base64">bHQ7cCZndDvI57n7xPq+9bXDusPTw6OssfDN/MHLzca89rj4xfPT0aOhJmx0Oy9wJmd0Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -159,29 +163,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQobW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmluY3IoIm1vdmllLWF0dGVuZGFuY2UiKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoKJmx0O3AmZ3Q7x+vU2srkyOu/8sTazPnI68Tj0OjSqtequ7u1xEhUTUy0+sLrJmx0Oy9wJmd0OwombHQ7cCZndDtIVE1M16q7u7mkvt+jrL/J0tS9q0hUTUy0+sLr16q7u86qSFRNTNeq0uXX1rf7tK4mbHQ7L3AmZ3Q7CiZsdDtwJmd0O9axvdO9q8Tjy/nSqtPDs8zQ8srks/a1xLTztK5IVE1MtPrC68z5tb3K5Mjrv/LW0KOsvLS/ydK7vPzJ+rPJJmx0Oy9wJmd0Owom</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uID0gZmlyc3RfbWFzdGVyLnBpcGVsaW5lKHRyYW5zYWN0aW9uPVRydWUpCg==</text>
+        <text encoding="base64">InNkZmFzZmRhc2Zhc2RmIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmV4ZWN1dGUoKQo=</text>
+        <text encoding="base64">ImtqZGZsa3NmIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2tkZmpsc2QK</text>
+        <text encoding="base64">YWRmIGRmamsgICAgZHNmamsgICBzZGZramwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2tkZmpsc2QK</text>
+        <text encoding="base64">YWRmIGRmamsgICAgZHNmamsgICBzZGZramwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2RrZmpsa3NkZgo=</text>
+        <text encoding="base64">J2FzZGYnICAgICdzZGYgYXNkZicgICAgJ3NhZCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Zmlyc3RfbWFzdGVyLmV2YWwoaW5jcmVtZW50X2x1YSwgMCwgMTAwMDAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGxvZygpOgo=</text>
+        <text encoding="base64">cHJpbnQobW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmluY3IoIm1vdmllLWF0dGVuZGFuY2UiKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
