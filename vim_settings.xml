@@ -3,22 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/chatroom/core.py" timestamp="1503383573610">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1503410054999">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1503644793998">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1503383516310">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503572431453">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/contect_redis/main2.py" timestamp="1503570083162">
         <mark key="[" line="0" column="0" />
@@ -31,12 +23,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/contect_redis/chatroom.lua" timestamp="1503560520974">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/Desktop/untitled1/tests.py" timestamp="1503644791082">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/excel_transformation/main2.py" timestamp="1503412690307">
         <mark key="[" line="85" column="47" />
@@ -44,14 +35,43 @@
         <mark key="." line="85" column="48" />
         <mark key="^" line="76" column="47" />
       </file>
-      <file name="/dummy.sql" timestamp="1503387455081">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1503572616724">
         <mark key="'" line="8" column="30" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/contect_redis/test.py" timestamp="1503644532232">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/chatroom/core.py" timestamp="1503383573610">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503572431453">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/contect_redis/main.py" timestamp="1503644144573">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/contect_redis/chatroom.lua" timestamp="1503560520974">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="/dummy.sql" timestamp="1503387455081">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -66,7 +86,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bHQ7cCZndDvI57n7xPq+9bXDusPTw6OssfDN/MHLzca89rj4xfPT0aOhJmx0Oy9wJmd0Owo=</text>
+        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQptcG9ydCByZWRpcwptcG9ydCB0aW1lCgppcnN0X21hc3RlciA9IHJlZGlzLlN0cmljdFJlZGlzKGhvc3Q9IjE5Mi4xNjguMS4xNyIsIHBvcnQ9IjYzNzkiKQoKb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24gPSBmaXJzdF9tYXN0ZXIucGlwZWxpbmUodHJhbnNhY3Rpb249VHJ1ZSkKcmludChtb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24uaW5jcigibW92aWUtYXR0ZW5kYW5jZSIpKQpvdmllX2F0dGVuZF90cmFuc2FjdGlvbi5leGVjdXRlKCkKCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -103,7 +123,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text encoding="base64">IC0+IHN0cjo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpc1w+</text>
@@ -112,7 +132,7 @@
         <text encoding="base64">cHJpbnQoZmlyc3RfbWFzdGVyLmdldCgibW92aWUtYXR0ZW5kYW5jZSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bHQ7cCZndDvI57n7xPq+9bXDusPTw6OssfDN/MHLzca89rj4xfPT0aOhJmx0Oy9wJmd0Owo=</text>
+        <text encoding="base64">IC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQptcG9ydCByZWRpcwptcG9ydCB0aW1lCgppcnN0X21hc3RlciA9IHJlZGlzLlN0cmljdFJlZGlzKGhvc3Q9IjE5Mi4xNjguMS4xNyIsIHBvcnQ9IjYzNzkiKQoKb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24gPSBmaXJzdF9tYXN0ZXIucGlwZWxpbmUodHJhbnNhY3Rpb249VHJ1ZSkKcmludChtb3ZpZV9hdHRlbmRfdHJhbnNhY3Rpb24uaW5jcigibW92aWUtYXR0ZW5kYW5jZSIpKQpvdmllX2F0dGVuZF90cmFuc2FjdGlvbi5leGVjdXRlKCkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -163,29 +183,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgoKJmx0O3AmZ3Q7x+vU2srkyOu/8sTazPnI68Tj0OjSqtequ7u1xEhUTUy0+sLrJmx0Oy9wJmd0OwombHQ7cCZndDtIVE1M16q7u7mkvt+jrL/J0tS9q0hUTUy0+sLr16q7u86qSFRNTNeq0uXX1rf7tK4mbHQ7L3AmZ3Q7CiZsdDtwJmd0O9axvdO9q8Tjy/nSqtPDs8zQ8srks/a1xLTztK5IVE1MtPrC68z5tb3K5Mjrv/LW0KOsvLS/ydK7vPzJ+rPJJmx0Oy9wJmd0Owom</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">InNkZmFzZmRhc2Zhc2RmIgo=</text>
+        <text encoding="base64">bHQ7cCZndDvI57n7xPq+9bXDusPTw6OssfDN/MHLzca89rj4xfPT0aOhJmx0Oy9wJmd0Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ImtqZGZsa3NmIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgoKJmx0O3AmZ3Q7x+vU2srkyOu/8sTazPnI68Tj0OjSqtequ7u1xEhUTUy0+sLrJmx0Oy9wJmd0OwombHQ7cCZndDtIVE1M16q7u7mkvt+jrL/J0tS9q0hUTUy0+sLr16q7u86qSFRNTNeq0uXX1rf7tK4mbHQ7L3AmZ3Q7CiZsdDtwJmd0O9axvdO9q8Tjy/nSqtPDs8zQ8srks/a1xLTztK5IVE1MtPrC68z5tb3K5Mjrv/LW0KOsvLS/ydK7vPzJ+rPJJmx0Oy9wJmd0Owom</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRmIGRmamsgICAgZHNmamsgICBzZGZramwK</text>
+        <text encoding="base64">InNkZmFzZmRhc2Zhc2RmIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRmIGRmamsgICAgZHNmamsgICBzZGZramwK</text>
+        <text encoding="base64">ImtqZGZsa3NmIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J2FzZGYnICAgICdzZGYgYXNkZicgICAgJ3NhZCcK</text>
+        <text encoding="base64">YWRmIGRmamsgICAgZHNmamsgICBzZGZramwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zmlyc3RfbWFzdGVyLmV2YWwoaW5jcmVtZW50X2x1YSwgMCwgMTAwMDAwKQo=</text>
+        <text encoding="base64">YWRmIGRmamsgICAgZHNmamsgICBzZGZramwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQobW92aWVfYXR0ZW5kX3RyYW5zYWN0aW9uLmluY3IoIm1vdmllLWF0dGVuZGFuY2UiKSkK</text>
+        <text encoding="base64">J2FzZGYnICAgICdzZGYgYXNkZicgICAgJ3NhZCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
