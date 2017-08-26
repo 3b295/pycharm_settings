@@ -53,8 +53,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="E:/requests/requests/cookies.py" timestamp="1503719864880">
+      <file name="E:/requests/requests/cookies.py" timestamp="1503721107118">
         <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="33" />
+        <mark key="^" line="170" column="33" />
+        <mark key="." line="170" column="33" />
       </file>
       <file name="E:/requests/requests/models.py" timestamp="1503719397657">
         <mark key="[" line="575" column="0" />
