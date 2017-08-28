@@ -34,13 +34,18 @@
         <mark key="^" line="8" column="8" />
         <mark key="." line="8" column="8" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1503927094456">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/excel_transformation/main2.py" timestamp="1503412690307">
         <mark key="[" line="85" column="47" />
         <mark key="]" line="85" column="48" />
         <mark key="." line="85" column="48" />
         <mark key="^" line="76" column="47" />
       </file>
-      <file name="E:/requests/requests/adapters.py" timestamp="1503725803477" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1503572616724">
         <mark key="'" line="8" column="30" />
         <mark key="[" line="27" column="0" />
@@ -87,7 +92,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/requests/requests/sessions.py" timestamp="1503722770161" />
       <file name="$USER_HOME$/Desktop/contect_redis/chatroom.lua" timestamp="1503560520974">
         <mark key="'" line="3" column="4" />
         <mark key="[" line="2" column="10" />
@@ -111,7 +115,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAjCgogICAgICAgIGRlZiBmdW5jKGZpLCBsaSwgY291bnQpOgogICAgICAgICAgICB0bXAgPSBbMF0KICAgICAgICAgICAgd2hpbGUgbGVuKHNldDEpID4gZmk6CiAgICAgICAgICAgICAgICB3aGlsZSBsZW4oc2V0MikgPiBsaToKICAgICAgICAgICAgICAgICAgICBpZiBzZXQxW2ZpXSA9PSBzZXQyW2xpXToKICAgICAgICAgICAgICAgICAgICAgICAgdG1wLmFwcGVuZChmdW5jKGZpICsgMSwgbGkgKyAxLCAxKSkKICAgICAgICAgICAgICAgICAgICBsaSArPSAxCiAgICAgICAgICAgICAgICBmaSArPSAxCiAgICAgICAgICAgIHJldHVybiBtYXgodG1wKSArIGNvdW50CgogICAgICAgIHByaW50KGZ1bmMoMCwwLCAwKSkKCiAgICAgICAgcHJpbnQoc2V0MSwgc2V0Mik=</text>
+        <text>compare.cmp(</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -154,7 +158,7 @@
         <text encoding="base64">XDxyZWRpc1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Zm9yIGl0ZW0gaW4gd29yZDE6CiAgICAgICAgICAgIGlmIGl0ZW0gaW4gY29uX3NldDoKICAgICAgICAgICAgICAgIHNldDIuYXBwZW5kKGl0ZW0pCiAgICAgICAgIA==</text>
+        <text>compare.cmp(</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAjCgogICAgICAgIGRlZiBmdW5jKGZpLCBsaSwgY291bnQpOgogICAgICAgICAgICB0bXAgPSBbMF0KICAgICAgICAgICAgd2hpbGUgbGVuKHNldDEpID4gZmk6CiAgICAgICAgICAgICAgICB3aGlsZSBsZW4oc2V0MikgPiBsaToKICAgICAgICAgICAgICAgICAgICBpZiBzZXQxW2ZpXSA9PSBzZXQyW2xpXToKICAgICAgICAgICAgICAgICAgICAgICAgdG1wLmFwcGVuZChmdW5jKGZpICsgMSwgbGkgKyAxLCAxKSkKICAgICAgICAgICAgICAgICAgICBsaSArPSAxCiAgICAgICAgICAgICAgICBmaSArPSAxCiAgICAgICAgICAgIHJldHVybiBtYXgodG1wKSArIGNvdW50CgogICAgICAgIHByaW50KGZ1bmMoMCwwLCAwKSkKCiAgICAgICAgcHJpbnQoc2V0MSwgc2V0Mik=</text>
